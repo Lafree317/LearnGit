@@ -1,3 +1,5 @@
 git is a version control system
 git is free sofware GPL
 git has a mutable index called stage
+Git has a mutable index called stage.
+Git tracks changes.
